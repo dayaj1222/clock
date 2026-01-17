@@ -17,7 +17,7 @@ A desktop application that displays a real-time analog clock with hour, minute, 
    ```
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![](./screenshots/demo.png)
 
 ## License
 
